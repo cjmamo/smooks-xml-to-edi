@@ -1,6 +1,6 @@
 /*-
  * ========================LICENSE_START=================================
- * Smooks Example :: EDI-to-XML
+ * Smooks Example :: XML-to-EDI
  * %%
  * Copyright (C) 2020 Smooks
  * %%
